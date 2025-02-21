@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+#header{
+    width: 100%;
+    height: 15%;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-align: center;
+    font-family: "Delius Swash Caps", serif;
+    font-style: italic;
+    
+}
+#fakeheader{
+    width: 100%;
+    height: 15%;
+}
+#m{
+    background-color: wheat;
+    text-align: center;
+    display: flex;
+}
+#s{
+    background-color: wheat;
+    text-align: center;
+    display: flex;
+}
+a{
+    margin: 4%;
+    text-decoration: none;
+    color: black;
+}
+.d{
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+    display:contents
+    width: 25%;
+    height: auto;
+}
+.i{
+    display: flex;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.n{
+    font-weight: bold;
+    font-family: "Delius Swash Caps", serif;
+}
